@@ -13,7 +13,7 @@ A lightweight and straightforward Todo List app built with HTML, CSS, and JavaSc
 ### Usage
 
 1. Clone or download the repository:
-```bash git clone https://github.com/kritesh00/projects.git
+bash git clone https://github.com/kritesh00/projects.git
 Open the index.html file in your web browser.
 Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
